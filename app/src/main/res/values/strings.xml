@@ -18,6 +18,7 @@
     <string name="error_cantidad_zero">La cantidad no debe ser cero</string>
     <string name="ing_daniel">Diseñado por: Ing daniel Olivera</string>
     <string name="limpiar">Limpiar</string>
+    <string name="creditos">Gracias por Descargar este codigo \n\nCreditos: \nIng Daniel Olivera</string>
 
     <string-array name="opcionesSexo">
         <item>@string/hombre</item>

@@ -178,6 +178,6 @@ public class Principal extends AppCompatActivity {
     }
 
     public void saludar (View v){
-        Toast.makeText(this, "Gracias por Descargar este codigo \n\nCreditos: \nIng Daniel Olivera", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, this.getResources().getString(R.string.creditos), Toast.LENGTH_LONG).show();
     }
 }

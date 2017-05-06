@@ -16,4 +16,5 @@
     <string name="error_cantidad_zero">The amount should not be zero</string>
     <string name="ing_daniel">" Designed by: Ing daniel Olivera"</string>
     <string name="limpiar">Clean</string>
+    <string name="creditos">Thanks for downloading this code \n\nCredits: \nIng Daniel Olivera</string>
 </resources>
