@@ -8,5 +8,7 @@
     <string name="sexo">Select sex</string>
     <string name="tipodezapato">Shoe type</string>
     <string name="zapatilla">Slipper</string>
-    <string name="precio">Price:</string>
+    <string name="precio">Price total:</string>
+    <string name="cantidad">Quantity</string>
+    <string name="preciounitario">Unit price</string>
 </resources>
