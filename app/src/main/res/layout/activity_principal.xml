@@ -75,12 +75,26 @@
             android:ems="10"
             android:inputType="numberSigned" />
 
-        <Button
-            android:id="@+id/button"
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="Precio"
-            android:text="@string/calcular" />
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="179dp"
+                android:layout_height="wrap_content"
+                android:onClick="Precio"
+                android:text="@string/calcular" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="borrar"
+                android:text="@string/limpiar" />
+        </LinearLayout>
 
         <TextView
             android:id="@+id/textView7"

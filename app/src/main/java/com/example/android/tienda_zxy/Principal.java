@@ -162,4 +162,16 @@ public class Principal extends AppCompatActivity {
         }
         return true;
     }
+
+    public void borrar (View v){
+        cajaCantidad.setText("");
+        cajaUnitario.setText("");
+        cajaPrecio.setText("");
+        View view = this.getCurrentFocus();
+        view.clearFocus();
+        if (view != null) {
+            InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+            imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
+        }
+    }
 }
