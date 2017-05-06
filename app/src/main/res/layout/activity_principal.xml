@@ -136,6 +136,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="79dp"
             android:fontFamily="monospace"
+            android:onClick="saludar"
             android:text="@string/ing_daniel"
             android:textAlignment="center" />
     </LinearLayout>

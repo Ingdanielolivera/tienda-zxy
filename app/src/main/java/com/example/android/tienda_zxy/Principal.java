@@ -10,6 +10,7 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class Principal extends AppCompatActivity {
     private Spinner comboOpcionesSexo;
@@ -174,5 +175,9 @@ public class Principal extends AppCompatActivity {
             InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
             imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
         }
+    }
+
+    public void saludar (View v){
+        Toast.makeText(this, "Gracias por Descargar este codigo \n\nCreditos: \nIng Daniel Olivera", Toast.LENGTH_LONG).show();
     }
 }
