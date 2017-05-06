@@ -12,4 +12,6 @@
     <string name="cantidad">Quantity</string>
     <string name="preciounitario">Unit price</string>
     <string name="error_cantidad">Enter the Quantity</string>
+    <string name="calcular">Calculate</string>
+    <string name="error_cantidad_zero">The amount should not be zero</string>
 </resources>
