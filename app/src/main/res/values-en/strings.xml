@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tienda_zxy</string>
+    <string name="clasico">Classic</string>
+    <string name="hombre">Man</string>
+    <string name="mujer">Women</string>
+    <string name="marca">Brand</string>
+    <string name="sexo">Select sex</string>
+    <string name="tipodezapato">Shoe type</string>
+    <string name="zapatilla">Slipper</string>
+    <string name="precio">Price:</string>
+</resources>
