@@ -16,6 +16,7 @@
     <string name="preciounitario">Precio Unitario</string>
     <string name="error_cantidad">Ingrese la cantidad</string>
     <string name="error_cantidad_zero">La cantidad no debe ser cero</string>
+    <string name="ing_daniel">Diseñado por: Ing daniel Olivera</string>
 
     <string-array name="opcionesSexo">
         <item>@string/hombre</item>
