@@ -14,6 +14,8 @@
     <string name="cantidad">Cantidad</string>
     <string name="calcular">Calcular</string>
     <string name="preciounitario">Precio Unitario</string>
+    <string name="error_cantidad">Ingrese la cantidad</string>
+    <string name="error_cantidad_zero">La cantidad no debe ser cero</string>
 
     <string-array name="opcionesSexo">
         <item>@string/hombre</item>

@@ -11,4 +11,5 @@
     <string name="precio">Price total:</string>
     <string name="cantidad">Quantity</string>
     <string name="preciounitario">Unit price</string>
+    <string name="error_cantidad">Enter the Quantity</string>
 </resources>
